@@ -342,7 +342,7 @@ class _HomePageState extends State<HomePage> {
                                   title: 'Restaurant',
                                 ),
                                 SectionMenuItem(
-                                  title: 'Livraison',
+                                  title: 'Livraisons',
                                 ),
                               ],
                             ),
